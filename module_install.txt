@@ -1,0 +1,17 @@
+pip install opencv-python numpy joblib pyttsx3 gingerit keyboard
+pip install mediapipe opencv-python
+pip install pandas mediapipe opencv-python numpy
+pip install mediapipe --extra-index-url https://pypi.org/simple
+pip install opencv-python tensorflow numpy matplotlib
+pip install opencv-contrib-python
+pip install opencv-python tensorflow deep-translator
+pip install gingerit
+pip install language-tool-python
+pip install opencv-python joblib textblob
+python -m textblob.download_corpora
+
+
+python -m venv venv
+venv\Scripts\activate
+
+
