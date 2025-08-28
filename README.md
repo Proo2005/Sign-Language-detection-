@@ -14,4 +14,3 @@ This project bridges the communication gap between hearing-impaired individuals 
 
 ---
 
-## 📂 Project Structure
